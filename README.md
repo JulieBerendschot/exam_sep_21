@@ -1,3 +1,4 @@
 # exam_sep_21
 
-[exam_sep_21_python](https://github.com/JulieBerendschot/exam_sep_21/blob/master/exam_Sep_21_2018_final.ipynb)
+[Exam Python September 21, 2018](https://github.com/JulieBerendschot/exam_sep_21/blob/master/exam_Sep_21_2018_final.ipynb)
+[Exam R September 21, 2018](...)
